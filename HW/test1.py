@@ -2,4 +2,5 @@ name = "SupplyHouse"
 print (name)
 
 num2 = 33
-print (num2)
+num3 = 50
+print (num3 - num2)
